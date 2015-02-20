@@ -1,0 +1,182 @@
+﻿/*--------------------------------------Menu navivation-----------------------------*/
+@font-face {
+    font-family: 'hobo';
+    src: url('../police/ufonts.com_hobo__2_.eot');
+    src: url('../police/KaushanScript-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../police/ufonts.com_hobo__2_.ttf') format('truetype');
+  
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+nav{
+	background-color:black;
+	margin:0px;
+	padding:0px;
+	position: absolute;
+	top:400px;
+	left:0px;
+	width:200px;
+	height:933px;
+	
+}
+
+
+
+#menu #rectangle{
+	background-color:rgba(253,149,0,0.3);
+	margin:auto;
+	border-radius: 10px;
+	border-width:2px;
+	border-style:solid ;
+	border-color:white;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:80;
+	width:195px;
+	height:43px;
+}
+
+.menuderoulant #rectangle2{
+	
+	background-color:white;
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:200px;
+	height:45px;
+	z-index:80;
+	
+
+}
+#menu , #menu ul {
+	position:absolute;
+	top:73px;
+	list-style-type: none;
+	margin:0px;
+	padding:0px;
+	
+	
+}
+
+
+#menu a{
+	position:relative;
+	text-decoration:none;
+	color:#df0202;
+	z-index:100;
+	
+	
+}
+
+#menu>li{
+	position:relative;
+	top:0;
+	background-color:black;
+	
+	
+	
+	
+	font-family:Hobo Std, hobo;
+	font-size:25px;
+	text-align:center;
+	vertical-align:center;
+	
+	width:200px;
+	height:45px;
+	position:relative;
+	
+}
+
+
+
+
+
+
+
+
+#projet-12 {
+	background : url('images/projet_12.gif');
+	background-position : left -433px;
+	width:200px;
+	height:635px;
+	position:absolute;
+	top:300px;
+	
+}
+
+
+
+/*--------début du menu de premier niveau--------*/
+
+
+
+#menu > li
+{
+width: 200px;
+margin: 0;
+padding: 0;
+border: 0;
+
+}
+
+
+/*---------------fin du menu de premier niveau-------------*/
+
+/*---------------début du menu déroulant-------------------*/
+
+a{
+	display : block;
+	width:200px;
+	height:45px;
+}
+
+#menu .menuderoulant {
+width:200px;    /*une largeur supérieur au menu li pour se rendre sur le menuderoulant meme avec un espace*/
+display: none;
+list-style-type: none;
+margin:  -74px 0 0 200px;   /*une marge top inferieur pour remonter le menuderoulant et une marge left pour le decaler à droite du menu*/
+padding: 0;
+border: 0;
+position:absolute; /*pour eviter tout decalage*/
+
+
+}
+.menuderoulant li
+{
+background-color:black;
+position:float;
+float: right;
+margin:0;
+padding: 0;
+border: 0;
+width: 200px;
+height:45px;
+
+
+}
+
+#menu .menuderoulant li a
+{
+display: block;
+margin: 0;
+border: 0;
+text-decoration: none;
+}
+
+
+
+/*----------fin du menu déroulant----------------*/
+/*--------------------------------------fin du menu-----------------------*/
+
+.admin{
+
+position: absolute;
+bottom:0;
+width:200px;
+height:40px;
+
+
+}

@@ -1,0 +1,22 @@
+﻿
+
+
+body{
+	background-color:black;
+	
+}
+
+
+div {
+	
+	margin:100px auto 100px auto;
+	background :url(images/logoAccueil.png);
+	width:500px;
+	height:500px;	
+}
+
+a{
+	display:block;
+	width:500px;
+	height:500px;
+}

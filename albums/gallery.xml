@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="000000"
+	thumbColumns="5"
+	thumbRows="1"
+	thumbPosition="BOTTOM"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/DSC_3345.JPG"
+	thumbURL="thumbs/DSC_3345.JPG"
+	linkURL="images/DSC_3345.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[blbla]]></caption>
+  </image>
+  <image imageURL="images/DSC_3346.JPG"
+	thumbURL="thumbs/DSC_3346.JPG"
+	linkURL="images/DSC_3346.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3347.JPG"
+	thumbURL="thumbs/DSC_3347.JPG"
+	linkURL="images/DSC_3347.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3348.JPG"
+	thumbURL="thumbs/DSC_3348.JPG"
+	linkURL="images/DSC_3348.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3349.JPG"
+	thumbURL="thumbs/DSC_3349.JPG"
+	linkURL="images/DSC_3349.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3350.JPG"
+	thumbURL="thumbs/DSC_3350.JPG"
+	linkURL="images/DSC_3350.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3351.JPG"
+	thumbURL="thumbs/DSC_3351.JPG"
+	linkURL="images/DSC_3351.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3352.JPG"
+	thumbURL="thumbs/DSC_3352.JPG"
+	linkURL="images/DSC_3352.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3353.JPG"
+	thumbURL="thumbs/DSC_3353.JPG"
+	linkURL="images/DSC_3353.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3354.JPG"
+	thumbURL="thumbs/DSC_3354.JPG"
+	linkURL="images/DSC_3354.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3357.JPG"
+	thumbURL="thumbs/DSC_3357.JPG"
+	linkURL="images/DSC_3357.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3358.JPG"
+	thumbURL="thumbs/DSC_3358.JPG"
+	linkURL="images/DSC_3358.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

@@ -1,0 +1,41 @@
+﻿header {
+	
+	position:absolute;
+	top : 0px;
+	left:0px;
+	
+	width:1200px;
+	height:400px;
+}
+
+#diapo{
+	background-color:black;
+	position:absolute;
+	top:0px;
+	left:0px;
+	
+	width:1200px;
+	height:337px;
+	background-size: cover;
+
+}
+
+#bandeau{
+	background:url('images/bandeau.gif');
+	width:1200px;
+	height:63px;
+	position:absolute;
+	bottom:0px;
+	left:0px;
+}
+
+#diapo>div{
+	position:absolute;
+	top:0px;
+	left:0px;
+	background:no-repeat center center ;
+	width:1200px;
+	height:337px;
+	background-size: cover;
+
+}

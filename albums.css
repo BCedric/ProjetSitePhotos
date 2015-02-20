@@ -1,0 +1,79 @@
+﻿/*----------------------section--------------------------*/
+
+section{
+	background-color:black;
+
+}
+
+section ul li{
+	
+	margin:30px 8px ;
+	width:302px;
+	height:132px;
+	display:block;
+	list-style-type: none;
+	float:left;
+}
+
+
+section ul li a{
+	margin:auto auto;
+	width:300px;
+	height:130px;
+	border:2px solid white;
+}
+
+section ul .concerts a{
+	background:url('images/concerts.png');
+	background-position:right top;
+}
+
+section ul .concerts a:hover{
+	background:url('images/concerts.png');
+	background-position:left top;
+	
+}
+
+section ul .jonglerie a{
+	background:url('images/jonglerie.png');
+	background-position:right top;
+}
+
+section ul .jonglerie a:hover{
+	background:url('images/jonglerie.png');
+	background-position:left top;
+	
+}
+
+section ul .nature a{
+	background:url('images/nature.png');
+	background-position:right top;
+}
+
+section ul .nature a:hover{
+	background:url('images/nature.png');
+	background-position:left top;
+	
+}
+
+section ul .villes a{
+	background:url('images/villes.png');
+	background-position:right top;
+}
+
+section ul .villes a:hover{
+	background:url('images/villes.png');
+	background-position:left top;
+	
+}
+
+section ul .divers a{
+	background:url('images/divers.png');
+	background-position:right top;
+}
+
+section ul .divers a:hover{
+	background:url('images/divers.png');
+	background-position:left top;
+	
+}
